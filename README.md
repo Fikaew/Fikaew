@@ -51,9 +51,5 @@
 ###
 
 ![snake gif](https://github.com/Fikaew/Fikaew/blob/output/github-contribution-grid-snake.gif)
-###
-
-
 
 ###
-Profile Readme Generator

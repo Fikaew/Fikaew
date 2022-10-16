@@ -53,11 +53,7 @@
 ![snake gif](https://github.com/Fikaew/Fikaew/blob/output/github-contribution-grid-snake.gif)
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jlisnk15at3ztpinzh50fqxzw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 Profile Readme Generator

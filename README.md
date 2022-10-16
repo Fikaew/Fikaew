@@ -50,8 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fikaew/Fikaew/blob/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Fikaew/Fikaew/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="center">
